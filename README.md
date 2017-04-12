@@ -31,7 +31,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## How it's work ?
 
-You just have to do the build setup as above and change value of the below keys in main.js file :
+You just have to do the build setup as above and change value of the below keys in src/main.js file :
 
 ```bash
 // Initialize Firebase
